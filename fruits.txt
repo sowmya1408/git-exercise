@@ -1,5 +1,3 @@
 orange
-apple
+kiwi
 watermelon
-pears
-banana
