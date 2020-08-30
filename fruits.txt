@@ -1,3 +1,5 @@
 orange
-grapes
+apple
 watermelon
+pears
+banana
